@@ -146,7 +146,7 @@ Recorre el árbol por niveles utilizando una cola.
 # Evidencias del Sistema
 
 ## Menú Principal
-
+https://github.com/JonathanChisag/prueba-practica-arboles-cpp/blob/75529a7ba695848dc3305479d6b616133d038e5d/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084240.png
 
 ---
 
