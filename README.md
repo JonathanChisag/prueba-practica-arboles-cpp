@@ -154,76 +154,83 @@ Recorre el árbol por niveles utilizando una cola.
 
 ![Insertar](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/blob/4e791a67dca01ed16dabfe3aed04c3283d3ace3d/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084240.png)
 ---
-
 ## Buscar Estudiante
 
-![Buscar](AQUI_TU_CAPTURA.png)
+![Buscar](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084318.png)
 
 ---
 
 ## Eliminar Estudiante
 
-![Eliminar](AQUI_TU_CAPTURA.png)
+![Eliminar](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084359.png)
 
 ---
 
 ## Recorrido Inorden
 
-![Inorden](AQUI_TU_CAPTURA.png)
+![Inorden](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084416.png)
 
 ---
 
 ## Recorrido Preorden
 
-![Preorden](AQUI_TU_CAPTURA.png)
+![Preorden](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084433.png)
 
 ---
 
 ## Recorrido Postorden
 
-![Postorden](AQUI_TU_CAPTURA.png)
+![Postorden](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084448.png)
 
 ---
 
 ## Recorrido BFS
 
-![BFS](AQUI_TU_CAPTURA.png)
+![BFS](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084448.png)
 
 ---
 
 ## Contar Estudiantes
 
-![Contar](AQUI_TU_CAPTURA.png)
+![Contar](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084506.png)
 
 ---
 
 ## Calcular Altura
 
-![Altura](AQUI_TU_CAPTURA.png)
+![Altura](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084519.png)
 
 ---
 
 ## Mayor Nota
 
-![MayorNota](AQUI_TU_CAPTURA.png)
+![MayorNota](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084532.png)
 
 ---
 
 ## Menor Nota
 
-![MenorNota](AQUI_TU_CAPTURA.png)
+![MenorNota](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084543.png)
 
 ---
 
 ## Mostrar Aprobados
 
-![Aprobados](AQUI_TU_CAPTURA.png)
+![Aprobados](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084558.png)
 
 ---
 
 ## Mostrar Reprobados
 
-![Reprobados](AQUI_TU_CAPTURA.png)
+![Reprobados](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084613.png)
+
+---
+
+## Salida del Sistema
+
+![Salir](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/raw/66bc3672ab52f009f15d56f3d418ffa3c7bb5424/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084624.png)
+
+---
 
 ---
 
