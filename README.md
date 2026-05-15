@@ -1,7 +1,7 @@
 [README_COMPLETO.md](https://github.com/user-attachments/files/27803853/README_COMPLETO.md)
-# Sistema Académico con Árbol Binario de Búsqueda en Java
+# Sistema Académico con Árbol Binario de Búsqueda en c++
 
-Proyecto desarrollado para la asignatura de **Estructura de Datos** utilizando **Árboles Binarios de Búsqueda (ABB)** en Java.
+Proyecto desarrollado para la asignatura de **Estructura de Datos** utilizando **Árboles Binarios de Búsqueda (ABB)** en c++.
 
 ---
 
@@ -15,30 +15,37 @@ Proyecto desarrollado para la asignatura de **Estructura de Datos** utilizando *
 - **Modalidad:** Individual
 
 ---
-
 # Objetivo del Proyecto
 
-Desarrollar un sistema académico capaz de gestionar estudiantes mediante la implementación de un Árbol Binario de Búsqueda (ABB), aplicando:
+Desarrollar un sistema académico en C++ capaz de gestionar estudiantes mediante la implementación de un Árbol Binario de Búsqueda (ABB), aplicando conceptos fundamentales de estructuras de datos y programación.
 
-- Programación Orientada a Objetos
+Durante el desarrollo del proyecto se utilizaron:
+
+- Programación Orientada a Objetos (POO)
 - Recursividad
-- Recorridos de árboles
-- BFS utilizando colas
+- Recorridos de árboles binarios
+- BFS utilizando colas (Queue)
 - Inserción, búsqueda y eliminación de nodos
+- Manejo dinámico de memoria
 - Código modular y estructurado
 
+---
 ---
 
 # Estructuras Aplicadas
 
 ## Árbol Binario de Búsqueda (ABB)
 
-Se utilizó un ABB porque permite:
+Se implementó un Árbol Binario de Búsqueda (ABB) en C++ para gestionar estudiantes de manera eficiente.
 
-- Insertar estudiantes eficientemente
-- Buscar por cédula rápidamente
-- Mantener los datos ordenados automáticamente
+Esta estructura permite:
+
+- Insertar estudiantes dinámicamente
+- Buscar estudiantes por cédula rápidamente
+- Mantener los registros ordenados automáticamente
 - Eliminar nodos conservando la estructura del árbol
+- Recorrer los datos mediante Inorden, Preorden, Postorden y BFS
+- Optimizar operaciones de búsqueda e inserción
 
 ---
 
@@ -64,41 +71,46 @@ Se utilizó un ABB porque permite:
 
 # Clases del Proyecto
 
-## NodoAcademico.java
+## NodoAcademico.h / NodoAcademico.cpp
 
-Representa cada estudiante dentro del árbol.
+Representa cada estudiante dentro del árbol binario.
 
 ### Atributos:
 
-- Cedula
+- Cédula
 - Apellidos
 - Nombres
 - Nota final
 - Carrera
 - Nivel
-- Hijo izquierdo
-- Hijo derecho
+- Nodo izquierdo
+- Nodo derecho
 
 ---
 
-## RegistroUniversitarioABB.java
+## RegistroUniversitarioABB.h / RegistroUniversitarioABB.cpp
 
-Contiene toda la lógica del árbol binario:
+Contiene toda la lógica del Árbol Binario de Búsqueda:
 
 - Inserciones
 - Búsquedas
 - Eliminaciones
 - Recorridos
 - BFS
-- Altura
-- Conteo
+- Altura del árbol
+- Conteo de nodos
 - Filtros de aprobados y reprobados
 
 ---
 
-## PrincipalSistemaUTA.java
+## PrincipalSistemaUTA.cpp
 
-Clase principal encargada del menú interactivo y ejecución del programa.
+Archivo principal encargado de:
+
+- Mostrar el menú interactivo
+- Capturar datos
+- Ejecutar las funciones del sistema
+- Controlar el flujo principal del programa
 
 ---
 
@@ -236,30 +248,26 @@ Recorre el árbol por niveles utilizando una cola.
 
 # Compilación y Ejecución
 
+# Compilación y Ejecución
+
 ## Compilar
 
 ```bash
-javac *.java
-```
-
-## Ejecutar
-
-```bash
-java PrincipalSistemaUTA
-```
-
+g++ *.cpp -o main.exe
 ---
 
 # Tecnologías Utilizadas
 
-- Java
-- Programación Orientada a Objetos
-- Árboles Binarios de Búsqueda
+- C++
+- Programación Orientada a Objetos (POO)
+- Árboles Binarios de Búsqueda (ABB)
 - Recursividad
+- Manejo dinámico de memoria
+- Estructuras de Datos
 - Cola (Queue)
-- GitHub
 - Visual Studio Code
-
+- MinGW / G++
+- GitHub
 ---
 
 # Explicación Técnica
@@ -289,22 +297,20 @@ Existen tres casos:
 # Estructura del Proyecto
 
 ```text
-proyecto/
+prueba/
 │
-├── NodoAcademico.java
-├── RegistroUniversitarioABB.java
-├── PrincipalSistemaUTA.java
+├── NodoAcademico.cpp
+├── NodoAcademico.h
+├── RegistroUniversitarioABB.cpp
+├── RegistroUniversitarioABB.h
+├── PrincipalSistemaUTA.cpp
 ├── README.md
-└── Capturas/
+└── capturas/
 ```
 
----
-
-# Autor
-- **GitHub:** [TU GITHUB]
 
 ---
 
 # ⭐ Resultado
 
-Sistema académico funcional utilizando Árboles Binarios de Búsqueda en Java con recorridos completos, BFS, cálculo de altura, manejo de estudiantes y evidencia documentada en GitHub.
+Sistema académico funcional desarrollado en C++ utilizando Árboles Binarios de Búsqueda (ABB), con recorridos completos, BFS, cálculo de altura, búsqueda, inserción y eliminación de estudiantes, además de documentación y evidencias del sistema en GitHub.
