@@ -152,7 +152,7 @@ https://github.com/JonathanChisag/prueba-practica-arboles-cpp/blob/75529a7ba6958
 
 ## Insertar Estudiante
 
-https://github.com/JonathanChisag/prueba-practica-arboles-cpp/blob/4e791a67dca01ed16dabfe3aed04c3283d3ace3d/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084240.png
+![Insertar](https://github.com/JonathanChisag/prueba-practica-arboles-cpp/blob/4e791a67dca01ed16dabfe3aed04c3283d3ace3d/capturas%20de%20pnatlla%20prueba/Captura%20de%20pantalla%202026-05-15%20084240.png)
 ---
 
 ## Buscar Estudiante
